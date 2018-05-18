@@ -1,3 +1,17 @@
 // Place all the styles related to the simple_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+  color:blue
+}
+nav ul li{
+ display: inline-block;
+ padding: 20px 20px 20px;
+}
+
+nav {
+ background-color: black;
+ position:fixed;
+ width:100%;
+ top:0;
+}
